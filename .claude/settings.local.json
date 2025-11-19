@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONPATH=src python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
